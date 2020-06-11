@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+}
+
+header {
+    background-color: darkseagreen;
+    padding: 10px 0 10px 0;
+    color: midnightblue;
+}
+
+.survey {
+    padding-top: 10px;
+}
+
+.survey li {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.survey li:hover {
+    background-color: cornflowerblue;
+    width: 150px;
+    margin: 0 auto;
+    padding: 4px;
+    border-radius: 3px;
+    transition: 0.3s ease;
+}
+
+.q1 {
+    background: royalblue;
+    width: 80%;
+    margin: 5% auto;
+    padding: 20px 0;
+    border-radius: 5px;
+    box-shadow: 1px 1px 7px rgba(0, 0,0, 0.4);
+}
