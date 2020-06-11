@@ -43,7 +43,6 @@ function handleOption(event, number){
         flag=0;
         if(items[i].style.color=="orange"){
             console.log("her");
-            
             flag=1;
             break;
         }
@@ -70,10 +69,8 @@ function handleOption(event, number){
             break;
     }
     
-    //console.log(handleNumber);
     checkComplte();
     
-   
     
 }
 
