@@ -29,6 +29,7 @@ header {
 .survey li {
     margin: 10px;
     cursor: pointer;
+    color: white;
 }
 
 .survey li:hover {
