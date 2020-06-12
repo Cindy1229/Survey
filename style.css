@@ -81,9 +81,10 @@ header {
 
 .end {
     display: none;
+    padding-top: 20%;
 }
 .end p {
-    padding-top: 30%;
+    
     font-size: 30px;
     padding-bottom: 10px;;
 }
